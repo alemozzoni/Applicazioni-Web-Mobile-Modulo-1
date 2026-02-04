@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tags>
+  <tag id="2" name="Cibo"/>
+  <tag id="3" name="Sport"/>
+  <tag id="4" name="Bollette"/>
+  <tag id="5" name="pizza" parentId="2"/>
+  <tag id="6" name="sushi" parentId="2"/>
+  <tag id="7" name="Stipendio"/>
+  <tag id="8" name="luce" parentId="4"/>
+  <tag id="9" name="gas" parentId="4"/>
+  <tag id="10" name="Salute"/>
+  <tag id="11" name="farmacia" parentId="10"/>
+  <tag id="12" name="medico" parentId="10"/>
+  <tag id="13" name="Extra"/>
+  <tag id="14" name="libri" parentId="2"/>
+  <tag id="15" name="libri" parentId="13"/>
+  <tag id="16" name="shopping" parentId="13"/>
+  <tag id="17" name="skincare" parentId="13"/>
+  <tag id="18" name="fiori" parentId="13"/>
+  <tag id="19" name="acqua" parentId="4"/>
+  <tag id="20" name="calcio" parentId="3"/>
+  <tag id="21" name="pallavolo" parentId="3"/>
+  <tag id="22" name="tennis" parentId="3"/>
+  <tag id="23" name="palestra" parentId="3"/>
+  <tag id="24" name="medicine" parentId="10"/>
+  <tag id="25" name="dentista" parentId="10"/>
+</tags>

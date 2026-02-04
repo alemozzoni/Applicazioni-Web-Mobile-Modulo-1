@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<transactions>
+  <transaction amount="50.0" date="2025-09-16" description="" id="1757975898657" recurrence="" type="EXPENSE">
+    <tags>
+      <tag id="5"/>
+    </tags>
+  </transaction>
+  <transaction amount="3000.0" date="2025-09-01" description="versamento stipendio mensile" id="1757975953368" recurrence="MONTHLY" type="INCOME">
+    <tags>
+      <tag id="7"/>
+    </tags>
+  </transaction>
+  <transaction amount="350.0" date="2025-09-25" description="" id="1757976006479" recurrence="MONTHLY" type="EXPENSE">
+    <tags>
+      <tag id="9"/>
+    </tags>
+  </transaction>
+  <transaction amount="150.0" date="2025-09-16" description="bonifico vacanza" id="1757978145904" recurrence="" type="INCOME">
+    <tags/>
+  </transaction>
+  <transaction amount="270.0" date="2025-09-27" description="abbonamento annuale palestra" id="1757979447927" recurrence="" type="EXPENSE">
+    <tags>
+      <tag id="23"/>
+    </tags>
+  </transaction>
+  <transaction amount="49.5" date="2025-09-16" description="" id="1758025424696" recurrence="" type="EXPENSE">
+    <tags>
+      <tag id="6"/>
+    </tags>
+  </transaction>
+  <transaction amount="270.0" date="2025-09-28" description="" id="1758027986233" recurrence="MONTHLY" type="EXPENSE">
+    <tags>
+      <tag id="9"/>
+    </tags>
+  </transaction>
+  <transaction amount="500.0" date="2026-07-10" description="" id="1770218148591" recurrence="MONTHLY" type="EXPENSE">
+    <tags>
+      <tag id="8"/>
+    </tags>
+  </transaction>
+</transactions>
